@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Teferi Mulatu
+Computer Science Graduate & Full-Stack Developer 🚀
+I am a passionate Computer Science graduate focused on building scalable, performant, and visually stunning web applications. My core expertise lies in modern JavaScript/TypeScript ecosystems, specifically crafting seamless user experiences with React/Next.js and robust backend services with Express.js.
 
-<!--
-**teferi-mulatu/teferi-mulatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Tech Stack & Tools
+Frontend Development
+React Next.js TypeScript Vite TailwindCSS HTML5 CSS3
 
-Here are some ideas to get you started:
+Backend & Databases
+NodeJS Express.js MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Workflow
+Git GitHub VS Code
+
+🛠️ Featured Projects
+🔨 Online Auction Management System
+A real-time digital bidding platform built to handle secure transactions and live updates.
+
+Stack: React, Tailwind CSS, Express.js, MongoDB, WebSockets.
+Key Features: Real-time dynamic bidding, secure user authentication, dashboard analytics for buyers and sellers.
+🌐 Component-Driven Developer Portfolio
+A sleek, modular showcase of my work designed with reusability and performance in mind.
+
+Stack: Vite + React, TypeScript, Tailwind CSS, Framer Motion.
+🤝 Connect with Me
+📧 Email: temu54321@gmail.com
+💼 LinkedIn: linkedin.com/in/teferi-mulatu
+📂 GitHub: github.com/TeferiMulatu
+⚡ Fun fact: When I'm not coding full-stack applications, I'm exploring advanced video editing workflows and diving into Windows power-user automation!
